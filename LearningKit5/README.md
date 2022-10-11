@@ -1,0 +1,1 @@
+The level is in Content/MyGame (All created assets should be in that folder).
